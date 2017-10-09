@@ -1,0 +1,9 @@
+read_stmt found
+read_stmt found
+assign_stmt found
+assign_stmt found
+assign_stmt found
+repeat_stmt found
+write_stmt found
+if_stmt found
+program found
